@@ -11,16 +11,16 @@ A Python project that demonstrates how to fetch data from multiple APIs concurre
 # Setup Instructions
 
 # 1. Clone the repo
-git clone https://github.com/HitendraSinghPanwar/parallel-api-fetcher-asyncio-httpx.git
-cd parallel-api-fetcher-asyncio-httpx
+- git clone https://github.com/HitendraSinghPanwar/parallel-api-fetcher-asyncio-httpx.git
+- cd parallel-api-fetcher-asyncio-httpx
 
 # 2. Create and activate virtual environment
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 # 3. Install required packages
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # 4. Run the script
-python main.py
+- python main.py
 
